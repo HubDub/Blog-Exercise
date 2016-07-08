@@ -1,0 +1,1 @@
+This is the first exercise-making a blog
